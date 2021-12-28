@@ -22,13 +22,19 @@
 * driver's license of category "B".
 
 ### Education and courses:
+2002-2007:
+Belarusian State Pedagogical University.
+Specialty: history and foreign language (English).
+
 2008-2011:
 Belarusian State Agrarian Technical University.
 Specialty: economics and management.
 
-2002-2007:
-Belarusian State Pedagogical University.
-Specialty: history and foreign language (English).
+2010 - Foreign economic activities of the company.
+Civil Service Institute of the Academy of Management under the President of the Republic of Belarus.
+
+2011 - Marketing Communications (Business English).
+Bobruisk Branch of the Belarusian State Economic University
 
 ### Work experience:
 2007-2009 - teacher of history and social studies at school No. 219, Minsk, Republic of Belarus.
