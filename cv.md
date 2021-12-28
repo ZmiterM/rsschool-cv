@@ -29,3 +29,10 @@ Specialty: economics and management.
 2002-2007:
 Belarusian State Pedagogical University.
 Specialty: history and foreign language (English).
+
+### Work experience:
+2007-2009 - teacher of history and social studies at school No. 219, Minsk, Republic of Belarus.
+
+2009-2012 - specialist in foreign economic activity of the export department of JSC "Belshina", Bobruisk, Republic of Belarus.
+
+2012-2021 - deputy director of UAB "Beltyre", Vilnius, Republic of Lithuania.
