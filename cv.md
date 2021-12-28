@@ -42,3 +42,9 @@ Bobruisk Branch of the Belarusian State Economic University
 2009-2012 - specialist in foreign economic activity of the export department of JSC "Belshina", Bobruisk, Republic of Belarus.
 
 2012-2021 - deputy director of UAB "Beltyre", Vilnius, Republic of Lithuania.
+
+### Languages:
+* Belarusian (native)
+* Russian (C2)
+* English (B1)
+* Lithuanian (B1)
