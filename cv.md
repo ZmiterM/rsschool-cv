@@ -20,4 +20,3 @@
 * document management: registration, accounting, storage of documents;
 * confident PC user: MS Office, "1C", Rivile;
 * driver's license of category "B".
-* 
