@@ -50,11 +50,11 @@ Bobruisk Branch of the Belarusian State Economic University
 * Lithuanian (B1)
 
 ### Code example:
-'''
+```
 <style>
 #red {color: red;}
 .bold {font-weight: bold;}
 </style>
 
 <p id="red" class="bold">Заголовок, к которому применяются правила</p>
-'''
+```
