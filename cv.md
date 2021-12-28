@@ -20,3 +20,12 @@
 * document management: registration, accounting, storage of documents;
 * confident PC user: MS Office, "1C", Rivile;
 * driver's license of category "B".
+
+### Education and courses:
+2008-2011:
+Belarusian State Agrarian Technical University.
+Specialty: economics and management.
+
+2002-2007:
+Belarusian State Pedagogical University.
+Specialty: history and foreign language (English).
