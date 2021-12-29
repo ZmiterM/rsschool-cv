@@ -1,0 +1,16 @@
+*{
+  margin: 0;  
+  padding: 0;
+}
+
+.text-block {
+    background-color: blue;
+    display: block;
+    width: 164px;
+    height: 21px;
+    overflow: hidden;
+}
+
+.text-block{
+  background-color: red;
+}
